@@ -1,4 +1,4 @@
-daweedkob ve sckratt'le v13 Çıktığında İlk Yaptığımız v13 İnvite Botu Sizlerle. Discordu Siklemiyorum 2 3 Adama İnat Altyapıların Tamamını Yavaştan Atıyorum Kimin Ne Söylediği Umrumda Değil Adıma Dönen Hiçbirşeyle Alakam Yoktur. Ara Sıra Giriyorum Ücretli Bot İşlemleri İçin ;
+Discordu Siklemiyorum 2 3 Adama İnat Altyapıların Tamamını Yavaştan Atıyorum Kimin Ne Söylediği Umrumda Değil Adıma Dönen Hiçbirşeyle Alakam Yoktur. Ara Sıra Giriyorum Ücretli Bot İşlemleri İçin ;
 
 Claser#5000
 ravgar#3210
