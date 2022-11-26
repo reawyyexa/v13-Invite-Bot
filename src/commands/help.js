@@ -26,4 +26,4 @@ module.exports = {
     description: "Tüm Mevcut Komutları Gösterir",
     run: run
 };
-//developed by ravgar
+//developed by claser
