@@ -1,7 +1,6 @@
 Ücretli Bot İşlemleri İçin ;
 
-Claser#5000
-ravgar#3210
+Discord : claserxd
 
 Config'i doldur
 npm install yap modülleri kur
@@ -10,4 +9,4 @@ Stat Sistemli 2 Dil Ayarlanabilir index.js en aşağıdan tokeni gir SunucuİD L
 
 
 
-> Herhangi Bir Sorunda Claser#5000
+> Herhangi Bir Sorunda Discord : claserxd
