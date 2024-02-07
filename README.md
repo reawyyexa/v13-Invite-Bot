@@ -1,6 +1,6 @@
 Ücretli Bot İşlemleri İçin ;
 
-Discord : claserxd
+Discord : reawyyexa
 
 Config'i doldur
 npm install yap modülleri kur
@@ -9,4 +9,4 @@ Stat Sistemli 2 Dil Ayarlanabilir index.js en aşağıdan tokeni gir SunucuİD L
 
 
 
-> Herhangi Bir Sorunda Discord : claserxd
+> Herhangi Bir Sorunda Discord : reawyyexa
